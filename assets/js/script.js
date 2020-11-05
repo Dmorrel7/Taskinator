@@ -313,7 +313,7 @@ var loadTasks = function()
 
     if (!tasks) 
     {
-        tasks = []
+        tasks=[];
         return false;
     }
 
